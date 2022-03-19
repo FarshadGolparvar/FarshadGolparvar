@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FarshadGolparvar
+- 👋 Hi, I’m Farshad
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me:
 - - www.linkedin.com/in/farshad-golparvar
